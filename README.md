@@ -1,4 +1,4 @@
-# side_webpage
+# TT_webpage
 自分のwebページ位ほしい...というか <br>
 Github Pagesで静的なwebサイトを作れるらしい! <br>
 とのことで勢いでコピペして作ったサイト <br>
